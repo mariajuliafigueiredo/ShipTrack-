@@ -26,7 +26,7 @@ ShipTrack explores how software solutions can support logistics operations, impr
 
 - [x] Project definition
 - [x] Business rules
-- [ ] Requirements
+- [x] Requirements
 - [ ] Data model
 - [ ] API development
 - [ ] Frontend
