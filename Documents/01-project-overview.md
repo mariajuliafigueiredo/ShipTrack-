@@ -66,3 +66,4 @@ A functional web application demonstrating how software development, database ma
 
 - [Business Rules](03-business-rules.md)
 - [Requirements](02-requirements.md)
+- [Data Model](04-data-model.md)
