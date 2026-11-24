@@ -2,8 +2,9 @@
 
 Shipment management and tracking web application designed to centralize shipment information and provide visibility into delivery progress.
 
-**Status:** Planning
-**Domain:** Transportation & Logistics
+- **Project type:** Full Stack Web Application
+- **Domain:** Transportation & Logistics
+- **Status:** Planning
 
 ## Overview
 
