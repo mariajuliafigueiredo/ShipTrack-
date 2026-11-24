@@ -1,8 +1,8 @@
 # ShipTrack — Project Overview
 
-**Project type:** Full Stack Web Application
-**Domain:** Transportation & Logistics
-**Status:** Planning
+- **Project type:** Full Stack Web Application
+- **Domain:** Transportation & Logistics
+- **Status:** Planning
 
 ## 1. Project Description
 
