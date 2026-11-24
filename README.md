@@ -1,4 +1,4 @@
-# LogiTrack — Project Overview
+# ShipTrack — Project Overview
 
 **Project type:** Full Stack Web Application  
 **Domain:** Transportation & Logistics  
@@ -6,7 +6,7 @@
 
 ## 1. Project Description
 
-LogiTrack is a shipment management and tracking web application designed to centralize shipment information and provide visibility into delivery progress.
+ShipTrack is a shipment management and tracking web application designed to centralize shipment information and provide visibility into delivery progress.
 
 The project aims to explore how software solutions can support logistics operations, improve information management and simplify shipment tracking.
 
@@ -16,7 +16,7 @@ Shipment management involves different stages, status updates and operational ev
 
 When information is scattered or difficult to access, tracking deliveries and identifying potential delays can become challenging.
 
-LogiTrack aims to address this problem by providing a centralized platform where users can manage shipments and consult their tracking history.
+ShipTrack aims to address this problem by providing a centralized platform where users can manage shipments and consult their tracking history.
 
 ## 3. Project Objectives
 
