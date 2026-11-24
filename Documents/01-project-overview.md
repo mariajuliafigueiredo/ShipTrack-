@@ -65,3 +65,4 @@ A functional web application demonstrating how software development, database ma
 ## 9. Related Documents
 
 - [Business Rules](03-business-rules.md)
+- [Requirements](02-requirements.md)
